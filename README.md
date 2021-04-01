@@ -2,6 +2,8 @@
 
 ## Graph Theory
 - [Bellman Ford](/graphs/bellman.cpp)
+- [Depth First Search](/graphs/dfs.cpp)
+
 ## Sorting Algorithms
 
 ## Searching Algorithms
