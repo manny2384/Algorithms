@@ -6,6 +6,7 @@
 
 ## Sorting Algorithms
 - [Merge Sort](/sort/mergesort.cpp)
+- [Quick Sort](/sort/quicksort.cpp)
 
 ## Searching Algorithms
 - [Breadth First Search](/search/bfs.cpp) of Missionary and Cannibals Problem
