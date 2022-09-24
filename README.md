@@ -1,4 +1,5 @@
 # Algorithms
+This is a repository consisting of classroom and leetcode problems.
 
 ## Graph Theory
 - [Bellman Ford](/graphs/bellman.cpp)
